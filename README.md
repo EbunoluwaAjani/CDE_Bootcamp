@@ -1,7 +1,6 @@
 1. README File for ETL Bash Script
-Overview
 
-This Bash script performs a simple ETL (Extract, Transform, Load) process for managing data infrastructure at CoreDataEngineers. The script downloads a CSV file, transforms the data by renaming a column and selecting specific columns, and loads the transformed data into a designated directory.
+The Bash script performs a simple ETL (Extract, Transform, Load) process for managing data infrastructure at CoreDataEngineers. The script downloads a CSV file, transforms the data by renaming a column and selecting specific columns, and loads the transformed data into a designated directory.
 
 Script Details
 - Extract: Downloads a CSV file from the provided URL and saves it to the raw folder.
